@@ -240,19 +240,19 @@ testimonial-items:
   - name: "Pablo"
     image: "assets/images/testimonial/client-1.png"
     designation : "Storyteller, Funder"
-    content : "Hola, soy el que he hecho esto"
+    content : "Hola, soy Pablo"
     
   - name: "Alejandro"
     image: "assets/images/testimonial/client-1.png"
     designation: "Art Director, Funder"
-    content: "Hola, soy el que corrijo al de la izquierda"
+    content: "Hola, soy Alejandro"
     
   - name: "German"
     image: "assets/images/testimonial/client-1.png"
     designation: "Senior Programmer, Funder"
-    content: "Hola, soy el que da la razón al de la derecha"
+    content: "Hola, soy German"
 
-  - name: "Dilanson"
+  - name: "Dilan"
     image: "assets/images/testimonial/client-1.png"
     designation: "Game Designer, Funder"
     content: "Hola, soy Stevenson"
@@ -260,12 +260,12 @@ testimonial-items:
   - name: "Dario"
     image: "assets/images/testimonial/client-1.png"
     designation: "Senior Programmer, Funder"
-    content: "Hola, soy Darius"
+    content: "Hola, soy Dario"
     
   - name: "Enrique"
     image: "assets/images/testimonial/client-1.png"
     designation: "Senior Programmer, Funder"
-    content: "Hola, soy Enroque"
+    content: "Hola, soy Enrique"
     
 #-------------------------------
 # Client Slider Section
