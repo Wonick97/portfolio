@@ -5,8 +5,9 @@ title: Kross
 logo: 
 author: themefisher
 description: this is meta description
-email: seracstudio@gmail.com
-address: Móstoles, Comunidad de Madrid, Spain
+email: steve.fruits@email.com
+phone: +880 2544 658 256
+address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -37,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! We're <br> Serac Studio <br>
+  hero-title: Hi! I’m <br> Christoher <br> UX designer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -51,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  We are a small indepent video game company who tries his best to do the best card games possible
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -238,25 +239,21 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Pablo Fernández"
+  - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
     designation : "CEO, Funder"
-    content : "Hola, soy quien ha hecho esto"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
-  - name: "Alejandro Vera"
+  - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
-    designation: "Art Director, Funder"
-    content: "Hola, soy quien cambia lo que hace el de la izquierda"
+    designation: "CEO, Funder"
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
-  - name: "German Calcedo"
+  - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
-    designation: "Senior Programmer, Funder"
-    content: "Hola, soy el que le da la razón al de la derecha"
-    
- - name: "Dilan Steven"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "Game Desginer, Funder"
-    content: "Hola, soy "
+    designation: "CEO, Funder"
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
 
 #-------------------------------
 # Client Slider Section
@@ -296,4 +293,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: seracstudio@gmail.com
+contact-email: steve.fruits@email.com
