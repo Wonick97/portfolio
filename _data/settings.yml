@@ -5,9 +5,8 @@ title: SeracStudio
 logo: 
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: seracstudio@gmail.com
+address: Móstoles, Comunidad de Madrid, Spain
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +37,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! We're <br> Serac Studio <br> an indepent video game company
+  hero-title: Hi! We're <br> Serac Studio <br>
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -52,7 +51,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  We are a small indepent video game company who tries his best to do the best card games possible
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -242,18 +241,22 @@ testimonial-items:
   - name: "Pablo Fernández"
     image: "assets/images/testimonial/client-1.png"
     designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    content : "Hola, soy quien ha hecho esto"
     
   - name: "Alejandro Vera"
     image: "assets/images/testimonial/client-1.png"
     designation: "Art Director, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    content: "Hola, soy quien cambia lo que hace el de la izquierda"
     
   - name: "German Calcedo"
     image: "assets/images/testimonial/client-1.png"
     designation: "Senior Programmer, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
+    content: "Hola, soy el que le da la razón al de la derecha"
+    
+ - name: "Dilan Steven"
+    image: "assets/images/testimonial/client-1.png"
+    designation: "Game Desginer, Funder"
+    content: "Hola, soy "
 
 #-------------------------------
 # Client Slider Section
