@@ -248,7 +248,7 @@ testimonial-items:
     content: "Hola, soy Alejandro"
     
   - name: "German"
-    image: "assets/images/testimonial/client-1.png"
+    image: "assets/images/team/german_1.png"
     designation: "Senior Programmer, Funder"
     content: "Hola, soy German"
 
