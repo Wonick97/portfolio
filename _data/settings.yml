@@ -238,7 +238,7 @@ portfolio-items:
 
 testimonial-items:
   - name: "Pablo"
-    image: "assets/images/team/1.png"
+    image: "assets/images/team/1.jpg"
     designation : "Storyteller, Funder"
     content : "Hola, soy Pablo"
     
