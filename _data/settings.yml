@@ -255,8 +255,18 @@ testimonial-items:
   - name: "Dilanson"
     image: "assets/images/testimonial/client-1.png"
     designation: "Game Designer, Funder"
-    content: "Hola, soy "
-
+    content: "Hola, soy Stevenson"
+    
+  - name: "Dario"
+    image: "assets/images/testimonial/client-1.png"
+    designation: "Senior Programmer, Funder"
+    content: "Hola, soy Darius"
+    
+  - name: "Enrique"
+    image: "assets/images/testimonial/client-1.png"
+    designation: "Senior Programmer, Funder"
+    content: "Hola, soy Enroque"
+    
 #-------------------------------
 # Client Slider Section
 
