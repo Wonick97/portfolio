@@ -240,7 +240,7 @@ testimonial-items:
   - name: "Pablo"
     image: "assets/images/team/pablo_1.png"
     designation : "Storyteller, Funder"
-    content : "Hola, soy Pablo, fundador"
+    content : "Hola, soy Pablo"
     
   - name: "Alejandro"
     image: "assets/images/team/alejandro_1.png"
