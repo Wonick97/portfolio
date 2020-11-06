@@ -90,11 +90,8 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Ganas de morir, color: '#fdb157', value: '100%'}
-- {name: Conocimientos de concurrencia, color: '#9473e6', value: '2%'}
-- {name: Dilanson Effects, color: '#bdecf6', value: '50%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
-
+ - image : "assets/images/icons/card_1.png"
+ content : "Esto es lo que estamos haciendo ahora."
 
 #-------------------------------
 # Exprerience Section
