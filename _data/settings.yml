@@ -42,7 +42,7 @@ social:
 - {icon: "ti-facebook", link: "#"}
 - {icon: "ti-instagram", link: "#"}
 - {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-twitter", link: "https://twitter.com/StudioSerac"}
 
 
 #-------------------------------
@@ -160,12 +160,6 @@ portfolio-home-items:
   - image : "assets/images/portfolio/script.jpg"
     url: "https://drive.google.com/drive/folders/1tov3M_rttadFn7d-fHIOFCQySwa87sdG?usp=sharing"
     
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-
 
 # Portfolio Page
 portfolio-label:
