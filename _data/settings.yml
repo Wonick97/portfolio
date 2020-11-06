@@ -151,11 +151,11 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image : "assets/images/portfolio/HellTrial.png"
+    url: "#https://grupo7.itch.io/hells-trial"
     
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image : "assets/images/portfolio/UBG.png"
+    url: "#https://grupo7.itch.io/untitled-board-game"
     
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
@@ -183,17 +183,54 @@ portfolio-label:
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/HellTrial.png"
-    url: "#https://grupo7.itch.io/hells-trial"
+  - image : "assets/images/portfolio/item-1.png"
+    url: "#"
     portfolio-type:
      - type: "design"
      - type: "illustration"
       
-  - image : "assets/images/portfolio/UBG.png"
-    url: "#https://grupo7.itch.io/untitled-board-game"
+  - image : "assets/images/portfolio/item-2.png"
+    url: "#"
     portfolio-type:
       - type: "branding"
-  
+      
+  - image : "assets/images/portfolio/item-3.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
+      
+  - image : "assets/images/portfolio/item-6.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-8.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
+      
+  - image : "assets/images/portfolio/item-5.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      
+  - image : "assets/images/portfolio/item-1.png"
+    url: "#"
+    portfolio-type:
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-3.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      - type: "illustration"
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-7.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
