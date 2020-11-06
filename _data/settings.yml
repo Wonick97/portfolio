@@ -152,10 +152,10 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/HellTrial.png"
-    url: "#https://grupo7.itch.io/hells-trial"
+    url: "https://grupo7.itch.io/hells-trial"
     
   - image : "assets/images/portfolio/UBG.png"
-    url: "#https://grupo7.itch.io/untitled-board-game"
+    url: "https://grupo7.itch.io/untitled-board-game"
     
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
