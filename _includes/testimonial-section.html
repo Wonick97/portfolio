@@ -9,10 +9,10 @@
       <div class="col-lg-10 mx-auto testimonial-slider">
         {% for testimonial-item in site.data.settings.testimonial-items %}
         <!-- slider-item -->
-        <div class="text-center testimonial-content">      
-          <p class="text-white mb-4">{{ testimonial-item.content }}</p>
+        <div class="text-center testimonial-content">        
           <img class="img-fluid rounded-circle mb-4 d-inline-block" src="{{ testimonial-item.image | relative_url }}"
             alt="{{ testimonial-item.name }}">
+          <p class="text-white mb-4">{{ testimonial-item.content }}</p>
           <h4 class="text-white">{{ testimonial-item.name }}</h4>
           <h6 class="text-light mb-4">{{ testimonial-item.designation }}</h6>
         </div>
