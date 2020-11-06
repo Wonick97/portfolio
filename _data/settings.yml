@@ -39,9 +39,6 @@ hero:
   hero-title: Hi! We are <br> Serac Studio
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "https://twitter.com/StudioSerac"}
 
 
