@@ -91,7 +91,7 @@ team:
 skills-title: Skills
 skills:
   - image : "assets/images/icons/card_1.png"
-  - content: "Nuestro proyecto actual se llama Crystal Wars, un juego de cartas sobre una guerra entre dioses y no nos decidimos en poner nombre a las cartas"
+    content: "Nuestro proyecto actual se llama Crystal Wars, un juego de cartas sobre una guerra entre dioses y no nos decidimos en poner nombre a las cartas"
 
 #-------------------------------
 # Exprerience Section
