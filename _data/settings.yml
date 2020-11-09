@@ -125,7 +125,12 @@ services:
     description: 'i hay hueco en las invocaciones, puedo sacrificar una invocación?',
     active: # Add true to select section
   }
-
+- {
+    name: Crystal Wars,
+    icon: ti-palette,
+    description: 'i hay hueco en las invocaciones, puedo sacrificar una invocación?',
+    active: # Add true to select section
+  }
 
 
 
