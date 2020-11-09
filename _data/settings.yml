@@ -120,7 +120,7 @@ education:
 services-title: What we do
 services:
 - {
-    name: Crystal Wars,
+    name: ,
     icon: "assets/images/icons/card_1.png",
     description: 'Nuestro proyecto actual se llama Crystal Wars, un juego de cartas sobre una guerra entre dioses y no nos decidimos en poner nombre a las cartas',
     active: # Add true to select section
@@ -131,7 +131,12 @@ services:
     description: 'Nuestro proyecto actual se llama Crystal Wars, un juego de cartas sobre una guerra entre dioses y no nos decidimos en poner nombre a las cartas',
     active: # Add true to select section
   }
-
+- {
+    name: ,
+    icon: "assets/images/icons/card_3.png",
+    description: 'Nuestro proyecto actual se llama Crystal Wars, un juego de cartas sobre una guerra entre dioses y no nos decidimos en poner nombre a las cartas',
+    active: # Add true to select section
+  }
 
 
 #-------------------------------
