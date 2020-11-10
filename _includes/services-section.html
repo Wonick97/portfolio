@@ -7,8 +7,8 @@
         <h2 class="section-title">{{ site.data.settings.services-title }}</h2>
       </div>
       {% for service in site.data.settings.services %}
-      <div class="col-md-4 mb-4 mb-md-0" style="color: #c5e0fe;">
-        <div class="card hover-shadow shadow">
+      <div class="col-md-4 mb-4 mb-md-0">
+        <div class="card hover-shadow shadow"  style="color: #c5e0fe;">
           <div class="card-body {% if service.active %}active-bg-primary{% endif %} text-center px-4 py-5">
             <img src="{{ service.icon }}"></i>
             <h4 class="mb-4">{{ service.name }}</h4>
