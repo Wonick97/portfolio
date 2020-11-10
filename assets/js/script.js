@@ -32,7 +32,12 @@
             'bottom': $(this).data('progress')
         });
     });
-
+    
+    $("#link").click(function() {
+     $('html, body').animate({
+              scrollTop: $("#element_target").offset().top
+            }, 1000);
+          });
 
     /* ########################################### hero parallax ############################################## */
     window.onload = function () {
