@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: SeracStudio
+title: Serac Studio
 logo: "assets/images/icons/serac_studio_logo_2.png"
 author: seracstudio
 description: web de serac studio
 email: seracstudio@gmail.com
 address: Mostoles, Comunidad de Madrid, Spain
-copyright: Copyright &copy; 2020 Designed by SeracStudio
+copyright: Copyright &copy; 2020 Designed by Serac Studio
 
 menu:
 - {name: About, link: '#crystalwars'}
