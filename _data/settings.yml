@@ -11,7 +11,7 @@ copyright: Copyright &copy; 2020 Designed by SeracStudio
 
 menu:
 - {name: About, link: '#crystalwars'}
-- {name: Portfolio, link: '/testimonial-section'}
+- {name: Portfolio, link: '#portfolio'}
 
 
 #-------------------------------
