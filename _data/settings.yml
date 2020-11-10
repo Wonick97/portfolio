@@ -119,19 +119,19 @@ services:
 - {
     name: ,
     icon: "assets/images/icons/card_1.png",
-    description: 'Nuestro proyecto actual se llama Crystal Wars, un juego de cartas sobre una guerra entre dioses y no nos decidimos en poner nombre a las cartas',
+    description: 'You will choose one of many decks available and modify to adapt it to you.',
     active: # Add true to select section
   }
 - {
     name: ,
     icon: "assets/images/icons/card_2.png",
-    description: 'Nuestro proyecto actual se llama Crystal Wars, un juego de cartas sobre una guerra entre dioses y no nos decidimos en poner nombre a las cartas',
+    description: 'We are working now in Crystal Wars, a mutiplayer card game where you will decide the next God.',
     active: # Add true to select section
   }
 - {
     name: ,
     icon: "assets/images/icons/card_3.png",
-    description: 'Nuestro proyecto actual se llama Crystal Wars, un juego de cartas sobre una guerra entre dioses y no nos decidimos en poner nombre a las cartas',
+    description: 'Be the winner of the War and you will become the Ruler of both worlds',
     active: # Add true to select section
   }
 
@@ -226,32 +226,32 @@ portfolio-items:
 testimonial-items:
   - name: "Pablo"
     image: "assets/images/team/pablo_1.png"
-    designation : "Storyteller, Funder"
+    designation : "Storyteller"
     content : 
     
   - name: "Alejandro"
     image: "assets/images/team/alejandro_1.png"
-    designation: "Art Director, Funder"
+    designation: "Art Director"
     content: 
     
   - name: "German"
     image: "assets/images/team/german_1.png"
-    designation: "Senior Programmer, Funder"
+    designation: "Programmer"
     content: 
 
   - name: "Dilan"
     image: "assets/images/team/dilan_1.png"
-    designation: "Game Designer, Funder"
+    designation: "Game Designer"
     content: 
     
   - name: "Dario"
     image: "assets/images/team/dario_1.png"
-    designation: "Senior Programmer, Funder"
+    designation: "Programmer"
     content: 
     
   - name: "Enrique"
     image: "assets/images/team/enrique_1.png"
-    designation: "Senior Programmer, Funder"
+    designation: "Programmer"
     content: 
     
 #-------------------------------
