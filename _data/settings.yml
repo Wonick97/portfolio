@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
 
-title: SeracStudio
-logo: 
+title: 
+logo: "assets/images/icons/serac_studio_logo_1.png"
 author: seracstudio
 description: web de serac studio
 email: seracstudio@gmail.com
