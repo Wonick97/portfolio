@@ -226,32 +226,32 @@ testimonial-items:
   - name: "Pablo"
     image: "assets/images/team/pablo_1.png"
     designation : "Storyteller, Funder"
-    content : "Hola, soy Pablo41"
+    content : 
     
   - name: "Alejandro"
     image: "assets/images/team/alejandro_1.png"
     designation: "Art Director, Funder"
-    content: "Hola, soy Alejandro"
+    content: 
     
   - name: "German"
     image: "assets/images/team/german_1.png"
     designation: "Senior Programmer, Funder"
-    content: "Hola, soy German"
+    content: 
 
   - name: "Dilan"
     image: "assets/images/team/dilan_1.png"
     designation: "Game Designer, Funder"
-    content: "Hola, soy Stevenson"
+    content: 
     
   - name: "Dario"
     image: "assets/images/team/dario_1.png"
     designation: "Senior Programmer, Funder"
-    content: "Hola, soy Dario"
+    content: 
     
   - name: "Enrique"
     image: "assets/images/testimonial/client-1.png"
     designation: "Senior Programmer, Funder"
-    content: "Hola, soy Enrique"
+    content: 
     
 #-------------------------------
 # Client Slider Section
