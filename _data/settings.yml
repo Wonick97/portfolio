@@ -38,7 +38,7 @@ hero:
   hero-title: Hi! We are <br> Serac Studio
 
 social:
-- {icon: "ti-twitter", link: "https://twitter.com/StudioSerac"}
+- {icon: "assets/images/icons/twitter_1.png", link: "https://twitter.com/StudioSerac"}
 
 
 #-------------------------------
