@@ -144,8 +144,8 @@ portfolio-home-items:
   - image : "assets/images/portfolio/HellTrial.png"
     url: "https://grupo7.itch.io/hells-trial"
     
-  - image : "assets/images/portfolio/UBG.png"
-    url: "https://grupo7.itch.io/untitled-board-game"
+#  - image : "assets/images/portfolio/UBG.png"
+#    url: "https://grupo7.itch.io/untitled-board-game"
     
   - image : "assets/images/portfolio/script.png"
     url: "https://drive.google.com/drive/folders/1tov3M_rttadFn7d-fHIOFCQySwa87sdG?usp=sharing"
