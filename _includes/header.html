@@ -1,4 +1,4 @@
-<header class="navigation fixed-top" style="background-color: #5c83a0;" id="link">
+<header class="navigation fixed-top" style="background-color: #5c83a0;">
   <nav class="navbar navbar-expand-lg navbar-dark">
     <a class="navbar-brand font-tertiary h3" href="{{ site.baseurl }}/">
       {% if site.data.settings.logo %}
@@ -19,7 +19,7 @@
         </li>
         {% for link in site.data.settings.menu %}
           <li class="nav-item {{ class }}">
-            <a class="nav-link" href="{{ link.link }}">{{ link.name }}</a>
+            <a class="nav-link" href="{{ link.link }}"  id=link.name>{{ link.name }}</a>
           </li>
         {% endfor %}
       </ul>
