@@ -33,6 +33,16 @@
         });
     });
     
+    $("#link").click(function() {
+  $('html, body').animate({
+    scrollTop: $("#portfolio").offset().top
+  }, 1000);
+});
+    $("#link").click(function() {
+  $('html, body').animate({
+    scrollTop: $("#crystalwars").offset().top
+  }, 1000);
+});
 
     /* ########################################### hero parallax ############################################## */
     window.onload = function () {
