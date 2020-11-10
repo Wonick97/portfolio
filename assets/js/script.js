@@ -33,12 +33,12 @@
         });
     });
     
-    $("#link").click(function() {
+    $("#Portfolio").click(function() {
   $('html, body').animate({
-    scrollTop: $("#portfolio").offset().top
+    scrollTop: $("#portafolio").offset().top
   }, 1000);
 });
-    $("#link").click(function() {
+    $("#About").click(function() {
   $('html, body').animate({
     scrollTop: $("#crystalwars").offset().top
   }, 1000);
