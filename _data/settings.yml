@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! We are Serac Studio
+  hero-title: Hi! We are <br> Serac Studio
 
 social:
 - {icon: "assets/images/icons/twitter_5.png", link: "https://twitter.com/StudioSerac"}
@@ -47,7 +47,7 @@ social:
 
 # About Section
 blurb:
-  Somos una compañia independiente de videojuegos que intenta hacer los mejores juegos de cartas
+  Serac Studio is a small studio who makes very cool games
 
 
 # About Page
