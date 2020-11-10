@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! We are <br>  <t> Serac Studio
+  hero-title: Hi! We are <br> Serac Studio
 
 social:
 - {icon: "assets/images/icons/twitter_5.png", link: "https://twitter.com/StudioSerac"}
