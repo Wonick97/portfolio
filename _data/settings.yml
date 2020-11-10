@@ -117,7 +117,7 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: What we do
+services-title: Crystal Wars
 services:
 - {
     name: ,
@@ -126,7 +126,7 @@ services:
     active: # Add true to select section
   }
 - {
-    name: Crystal Wars,
+    name: ,
     icon: "assets/images/icons/card_2.png",
     description: 'Nuestro proyecto actual se llama Crystal Wars, un juego de cartas sobre una guerra entre dioses y no nos decidimos en poner nombre a las cartas',
     active: # Add true to select section
