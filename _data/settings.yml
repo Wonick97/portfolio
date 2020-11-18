@@ -226,7 +226,7 @@ portfolio-items:
 testimonial-items:
   - name: "Pablo"
     image: "assets/images/team/pablo_1.png"
-    designation : "Storyteller"
+    designation : "Narrative Designer"
     content : 
     
   - name: "Alejandro"
