@@ -119,19 +119,19 @@ services:
 - {
     name: ,
     icon: "assets/images/icons/card_1.png",
-    description: 'You will choose one of many decks available and modify to adapt it to you.',
+    description: 'You will choose one of many decks available and modify them to adapt it to you.',
     active: # Add true to select section
   }
 - {
     name: ,
     icon: "assets/images/icons/card_2.png",
-    description: 'We are working now in Crystal Wars, a mutiplayer card game where you will decide the next God.',
+    description: 'We are working now in Crystal Wars, a mutiplayer card game where you will decide the next God of gods.',
     active: # Add true to select section
   }
 - {
     name: ,
     icon: "assets/images/icons/card_3.png",
-    description: 'Be the winner of the War and you will become the Ruler of both worlds',
+    description: 'Be the winner of the Great God War and you will become the Ruler of both worlds',
     active: # Add true to select section
   }
 
