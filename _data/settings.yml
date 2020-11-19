@@ -119,7 +119,7 @@ services:
 - {
     name: ,
     icon: "assets/images/icons/card_1.png",
-    description: 'You will choose one of many decks available and modify them to adapt it to you.',
+    description: 'You will choose one of many decks available and modify it to adapt it to you.',
     active: # Add true to select section
   }
 - {
